@@ -62,5 +62,5 @@ I'm a versatile software engineer with a passion for building everything from hi
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-7C3AED?style=flat-square&logo=react&logoColor=white)](https://elkarati.dev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nassimelkarati@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nassim.elkarati@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nassim-el-karati)
