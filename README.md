@@ -1,7 +1,7 @@
 # Hi, I'm Nassim EL KARATI👋
 
 **Computer Science Student** at University of Limoges 🎓  
-**Full-Stack Developer** | **Game Developer** | **Software Engineer**
+<!-- **Full-Stack Developer** | **Game Developer** | **Software Engineer** -->
 
 ---
 
