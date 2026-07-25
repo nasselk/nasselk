@@ -15,13 +15,13 @@ I'm a versatile software engineer with a passion for building everything from hi
 
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -44,7 +44,6 @@ I'm a versatile software engineer with a passion for building everything from hi
 ![WebGPU](https://img.shields.io/badge/-WebGPU-005A9C?style=flat-square)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square)
 
 **Networking & Real-Time**  
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square)
